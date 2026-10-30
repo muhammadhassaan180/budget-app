@@ -1,6 +1,6 @@
 # Budget App
 
-A budget tracker built with Python classes — track spending across categories and visualize relative spending in a text-based chart.
+A freeCodeCamp Python certification project: a budget tracker built with Python classes — track spending across categories and visualize relative spending in a text-based chart.
 
 ## Features
 
@@ -24,4 +24,4 @@ python main.py
 
 ---
 
-*Built as part of my Software Engineering learning journey at SSUET.*
+*Built as part of the freeCodeCamp Scientific Computing with Python certification.*
